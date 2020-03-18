@@ -1,2 +1,3 @@
-# HelloWorld
-This is a test for uploading new code using Jenkins
+# maven-project
+
+Simple Maven Project
